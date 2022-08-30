@@ -15,6 +15,7 @@
 		4FE6E8C728BDAD7A003736AA /* SmallAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE6E8C628BDAD7A003736AA /* SmallAppUITests.swift */; };
 		4FE6E8C928BDAD7A003736AA /* SmallAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE6E8C828BDAD7A003736AA /* SmallAppUITestsLaunchTests.swift */; };
 		4FE6E8D628BDB287003736AA /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE6E8D528BDB287003736AA /* Model.swift */; };
+		4FE6E8D828BDB88E003736AA /* ModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE6E8D728BDB88E003736AA /* ModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4FE6E8C628BDAD7A003736AA /* SmallAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallAppUITests.swift; sourceTree = "<group>"; };
 		4FE6E8C828BDAD7A003736AA /* SmallAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4FE6E8D528BDB287003736AA /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		4FE6E8D728BDB88E003736AA /* ModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				4FE6E8BC28BDAD7A003736AA /* SmallAppTests.swift */,
+				4FE6E8D728BDB88E003736AA /* ModelTests.swift */,
 			);
 			path = SmallAppTests;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FE6E8BD28BDAD7A003736AA /* SmallAppTests.swift in Sources */,
+				4FE6E8D828BDB88E003736AA /* ModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
